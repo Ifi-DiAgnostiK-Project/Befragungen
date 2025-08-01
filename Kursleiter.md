@@ -1,3 +1,14 @@
+<!--
+author: Sebastian Zug
+version: 0.0.1
+language: de
+edit: true
+date: 2025-08-01
+comment: Beobachtungsbogen für Lehrkräfte
+title: Beobachtungsbogen
+tags: Umfragen
+-->
+
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Befragungen/refs/heads/main/Kursleiter.md)
 
 # Beobachtungsbogen: Lernverhalten bei digitalen Befragungen
