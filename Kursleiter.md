@@ -1,3 +1,5 @@
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Befragungen/refs/heads/main/Kursleiter.md)
+
 # Beobachtungsbogen: Lernverhalten bei digitalen Befragungen
 
 Dieser Beobachtungsbogen dient der systematischen Erfassung, wie Auszubildende mit digitalen Befragungsinstrumenten (z. B. Feedbackfragebögen, themenspezifische Einschätzungen) umgehen. Ziel ist es, Rückschlüsse auf die Verständlichkeit, Zugänglichkeit und Nützlichkeit dieser digitalen Materialien zu ziehen und die Gestaltung künftiger Lernangebote zu verbessern.
