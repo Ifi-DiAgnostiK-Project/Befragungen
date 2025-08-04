@@ -1,5 +1,5 @@
 <!--
-author: Sebastian Zug
+author: Sebastian Zug, Hilke Domsch, Volker Göhler, André Dietrich
 version: 0.0.1
 language: de
 edit: true
@@ -13,7 +13,7 @@ tags: Umfragen
 
 # Beobachtungsbogen: Lernverhalten bei digitalen Befragungen
 
-Dieser Beobachtungsbogen dient der systematischen Erfassung, wie Auszubildende mit digitalen Befragungsinstrumenten (z. B. Feedbackfragebögen, themenspezifische Einschätzungen) umgehen. Ziel ist es, Rückschlüsse auf die Verständlichkeit, Zugänglichkeit und Nützlichkeit dieser digitalen Materialien zu ziehen und die Gestaltung künftiger Lernangebote zu verbessern.
+Dieser Beobachtungsbogen dient der systematischen Erfassung, wie Auszubildende mit digitalen Befragungsinstrumenten (z.B. Feedbackfragebögen, themenspezifische Einschätzungen) umgehen. Ziel ist es, Rückschlüsse auf die Verständlichkeit, Zugänglichkeit und Nützlichkeit dieser digitalen Materialien zu ziehen und die Gestaltung künftiger Lernangebote zu verbessern.
 
 **Hinweis zum Datenschutz:**  
 Die Ergebnisse werden anonymisiert verarbeitet und nicht mit einzelnen Personen in Verbindung gebracht. Es werden keine Namen notiert, nur wie die Bearbeitung insgesamt verlaufen ist.
@@ -22,23 +22,23 @@ Die Ergebnisse werden anonymisiert verarbeitet und nicht mit einzelnen Personen 
 
 Bitte kreuzen Sie die zutreffenden Rahmenbedingungen an. Dabei sind Mehrfachnennungen möglich:
 
-- Die Befragung bezieht sich auf:
+Die Befragung bezieht sich auf:
 
-  - [ ] Inhalte der Belehrung
-  - [ ] themenbezogene digitale Inhalte
-  - [ ] abschließendes Feedback zum ÜLU-Kurs
+- [[1a]] Inhalte der Belehrung
+- [[1b]] themenbezogene digitale Inhalte
+- [[1c]] abschließendes Feedback zum ÜLU-Kurs
 
-- Die Befragung wurde durchgeführt:
+Die Befragung wurde durchgeführt:
 
-  - [ ] während des Kurses
-  - [ ] unmittelbar vor dem Kursabschluss
-  - [ ] selbstständig außerhalb des Kurses
+- [[2a]] während des Kurses
+- [[2b]] unmittelbar vor dem Kursabschluss
+- [[2c]] selbstständig außerhalb des Kurses
 
-- Die Auszubildenden nutzten zur Beantwortung:
+Die Auszubildenden nutzten zur Beantwortung:
 
-  - [ ] eigene Mobiltelefone
-  - [ ] eigene Laptops oder Tablets
-  - [ ] Geräte der Ausbildungsstätte
+- [[3a]] eigene Mobiltelefone
+- [[3b]] eigene Laptops oder Tablets
+- [[3c]] Geräte der Ausbildungsstätte
 
 - Dauer der Beobachtung: ______ Minuten  
 
