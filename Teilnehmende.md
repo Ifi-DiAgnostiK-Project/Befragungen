@@ -4,8 +4,8 @@ version: 0.0.1
 language: de
 edit: true
 date: 2025-08-01
-comment: Beobachtungsbogen für Auszubildende
-title: Beobachtungsbogen
+comment: Fragebogen für Auszubildende
+title: Fragebogen
 tags: Umfragen
 
 @style  
