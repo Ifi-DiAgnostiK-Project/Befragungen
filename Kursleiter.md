@@ -1,6 +1,6 @@
 <!--
 author: Sebastian Zug, Hilke Domsch, Volker Göhler, André Dietrich
-version: 0.0.1
+version: 0.0.2
 language: de
 edit: true
 date: 2025-08-01
